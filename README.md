@@ -11,6 +11,7 @@ After the basic functionality is implemented, the code will be refactored and op
 - [ ] Implement proper error handling
 - [ ] Implement *ISO 15765-4 (CAN 29/250)* protocol
 - [ ] Refactor code after first basic implementation
+- [ ] ...
 
 ### Note
 This project is for learning purposes and I'm trying to reinvent the wheel even though libraries already exist.
